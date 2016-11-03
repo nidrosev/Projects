@@ -4,3 +4,9 @@ c:\users\student\documents\visual studio 2015\Projects\ConsoleApplication5\Conso
 c:\users\student\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.csprojResolveAssemblyReference.cache
 c:\users\student\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
 c:\users\student\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
+C:\Users\Student\Documents\Visual Studio 2015\Projects\ConsoleApplication5\Projects\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+C:\Users\Student\Documents\Visual Studio 2015\Projects\ConsoleApplication5\Projects\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\ConsoleApplication5\Projects\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
+C:\Users\Student\Documents\Visual Studio 2015\Projects\ConsoleApplication5\Projects\ConsoleApplication5\obj\Debug\ConsoleApplication5.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\Visual Studio 2015\Projects\ConsoleApplication5\Projects\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\ConsoleApplication5\Projects\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb

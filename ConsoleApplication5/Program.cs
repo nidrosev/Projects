@@ -21,8 +21,10 @@ namespace ConsoleApplication5
              name = Console.ReadLine();*/
 
 
-            Person person = new Person();
-            person.EnterData();
+            Course courses = new Course();
+            courses.EneterDataCourse();
+            Student student = new Student();
+            Console.ReadKey();
             
             // int result;
             //int sizeArray = Int32.Parse(Console.ReadLine());

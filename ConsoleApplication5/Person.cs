@@ -12,9 +12,9 @@ namespace ConsoleApplication5
         public byte age;
 
         private static int mCurrentGlobalId;
-
+        public List<Person> peopleResultn;
         public int Id { get; set; }
-
+       
         public Person()
         {
             Id = mCurrentGlobalId++;
@@ -70,14 +70,14 @@ namespace ConsoleApplication5
 
         public void PeopleSort(List<Person> peopleResult)
         {
-                var 
-            peopleResultn = peopleResult.Where(x => x.age > 18).OrderByDescending(x => x.name.Length).ToList<Person>();
-            foreach (var item in peopleResult)
+           var peopleResultn = peopleResult.Where(x => x.age > 18).OrderByDescending(x => x.name.Length).ToList<Person>();
+
+            foreach (var item in peopleResultn)
             {
                 Console.WriteLine("Name is {0} , Age is {1}", item.name, item.age);
             }
 
-            Console.ReadKey();
+          
         }
     }
 }
