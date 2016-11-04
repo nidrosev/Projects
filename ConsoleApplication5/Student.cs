@@ -13,21 +13,21 @@ namespace ConsoleApplication5
 
      public Student()
      {
-            this.CheckStudent();
-            base.EnterData();
-        }
+            
+     }
 
       public void CheckStudent()
         {
             Console.WriteLine("Enter a student name:");
             string StudentName = Console.ReadLine();
            // var studentList = new List<Person>();
-            var studentList = base.peopleResultn;
-            foreach (var item in studentList) {
-             if (item.name == StudentName)
-                {
-                    Console.WriteLine("{0} - This student already exists");
-                }
+           
+
+            bool exists = base.peopleResultn.Exists(x => x.name == StudentName);
+            if (exists) {
+                Console.WriteLine("Student with name {0} already exist", StudentName); 
+                    } else {
+                Console.WriteLine("Student with name {0} do not exist", StudentName);
             }
         }
         public void AddStudent ()

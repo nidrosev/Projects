@@ -27,14 +27,10 @@ namespace ConsoleApplication5
         public Person(string name) : this()
         {
             this.name = name;
-            // Console.WriteLine("Name i : {0} ,Age is {1}", this.name, this.age);
-
         }
         public Person(string name, byte age) : this(name)
         {
             this.age = age;
-            //Console.WriteLine("Name i : {0}, Age is {1}", this.name, this.age);
-
         }
 
         public void  EnterData()
@@ -60,12 +56,10 @@ namespace ConsoleApplication5
 
         public Person ParseData(string PersonString)
         {
-            
                 string[] person = PersonString.Split(new string[] { "//" }, StringSplitOptions.RemoveEmptyEntries);
                 var p = new Person(person[0], byte.Parse(person[1]));
             
             return p;
-   
         }
 
         public void PeopleSort(List<Person> peopleResult)
@@ -76,8 +70,6 @@ namespace ConsoleApplication5
             {
                 Console.WriteLine("Name is {0} , Age is {1}", item.name, item.age);
             }
-
-          
         }
     }
 }
