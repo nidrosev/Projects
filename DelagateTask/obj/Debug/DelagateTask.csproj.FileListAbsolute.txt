@@ -1,0 +1,6 @@
+C:\Users\Student\Documents\Visual Studio 2015\Projects\ConsoleApplication5\DelagateTask\bin\Debug\DelagateTask.exe.config
+C:\Users\Student\Documents\Visual Studio 2015\Projects\ConsoleApplication5\DelagateTask\bin\Debug\DelagateTask.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\ConsoleApplication5\DelagateTask\bin\Debug\DelagateTask.pdb
+C:\Users\Student\Documents\Visual Studio 2015\Projects\ConsoleApplication5\DelagateTask\obj\Debug\DelagateTask.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\ConsoleApplication5\DelagateTask\obj\Debug\DelagateTask.pdb
+C:\Users\Student\Documents\Visual Studio 2015\Projects\ConsoleApplication5\DelagateTask\obj\Debug\DelagateTask.csprojResolveAssemblyReference.cache
